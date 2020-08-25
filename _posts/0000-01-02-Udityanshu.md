@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-My name is Udityanshu Goyal. I love speed
+My name is Udityanshu Goyal. I love speed!
 Use the left arrow to go back!
